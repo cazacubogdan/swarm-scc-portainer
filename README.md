@@ -1,0 +1,1 @@
+# swarm-scc-portainer
